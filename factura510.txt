@@ -1,0 +1,6 @@
+Factura 105Client:random with id: 10Product: telefon quantity: 2Factura 105
+Client:random with id: 10
+Product: telefon quantity: 2
+Factura 105
+Client:random with id: 10
+Product: telefon quantity: 5
